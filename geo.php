@@ -68,7 +68,7 @@ function ip_info($ip = NULL, $purpose = "location", $deep_detect = TRUE) {
     return $output;
 }
 
-
+echo "git";
 echo ip_info("Visitor", "Country")."<br/>"; // India
 echo ip_info("Visitor", "Country Code")."<br/>"; // IN
 echo ip_info("Visitor", "State")."<br/>"; // Andhra Pradesh
