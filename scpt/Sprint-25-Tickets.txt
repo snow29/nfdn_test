@@ -1,0 +1,40 @@
+IM-21 Inventory "Flushes" or "Resets" - Sangeetha
+493 - Investigate bot activity in NFDN system - Sangeetha
+542 - Create plan to address broken global blacklist and DDoS attacks -Radha
+
+534 - IP Addresses Receiving Message of Rejected IP - Sangeetha
+283 - Occasional Shopping Cart Glitch 
+
+296 - Fed Ex price does not match what Consumer charged - Radha
+470 - Fedex Pricing In Dealer's Admin Panel Does Not Match What Is Actually Charged -Radha
+
+530 - Disable Apache Web Signature 
+540 - Can’t access a site using a third-party domain over LTE.
+522 - DB Latency Alerts 
+471 - SEO - Domain Consolidation -
+
+Total : 11 Tickets
+
+
+To be Tested :
+
+491(Waiting on IM-21 and cleanup of data) - Add AcuSport to distributor back-end access reports
+POBF-517(Chad) - Add Special Zip Code Referral Page
+POBF-520 – Chuck/Jerry (Your changes meet the spec, but the Google tool is still flagging an error; I am confirming if this is okay.)
+POBF-528 ( Chad ) - Sticky Integration.
+POBF-531 – (Aimee) - Some AcuSport items not getting inventory updates.
+POBF-468 – Chad/Aimee -FedEx Adult Signature Required not being sent to FedEx
+EGOSS-13 – Aimee - System Continuously Reverting Back to the Login Page
+POBF-538 – (Still monitoring since we had another occurrence) - Camfour Inventory is not updating frequently
+ 
+Total : 8 Tickets
+
+Backlog :
+
+
+535
+539
+525
+
+expose_php = Off
+
